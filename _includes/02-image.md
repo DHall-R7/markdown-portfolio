@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Yaktocat](http://www.psyeta.org/wp-content/uploads/2021/02/Black-pitbull-with-yellow-eyes-678x381.jpg)
