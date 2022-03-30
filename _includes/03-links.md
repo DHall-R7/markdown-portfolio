@@ -1,1 +1,1 @@
-[CyberWire Daily Podcast] (https://thecyberwire.com/)
+[CyberWireDailyPodcast](http://thecyberwire.com/)
